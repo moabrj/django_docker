@@ -1,2 +1,2 @@
-# django_docker
-Treino django rest framework com docker e git
+# Library
+Backend de sistema bibliotecário feito em Django/Postgres/docker
